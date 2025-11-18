@@ -33,3 +33,4 @@ https://github.com/fstark/outbound/assets/guided-tour.webm
 
 [Download Video](media/guided-tour.webm)
 
+[guided-tour.webm](https://github.com/user-attachments/assets/b10aa494-3de9-410b-80d5-cb23398d773b)
