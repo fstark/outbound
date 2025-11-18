@@ -26,3 +26,11 @@ This contains a folder found on an Outbound, with the 1.1 version of the softwar
 ![Image](media/soft-1.png)
 
 [Read me](docs/Outbound-125-READ_ME_NOW_1.1.txt)
+
+### Guided Tour
+
+<video width="640" height="480" controls>
+	<source src="media/guided-tour.webm" type="video/webm">
+	Your browser does not support the video tag.
+</video>
+
